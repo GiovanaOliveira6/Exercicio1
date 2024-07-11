@@ -1,0 +1,6 @@
+import math
+a = float(input('Digite um numero qualquer '))
+b = float(input('Digite outro numero qualquer '))
+c = float(input('Digite mais um numero qualquer '))
+x = (a+b) * math.sqrt(2) * (1/3-9/11)
+print(f'O resultado dessa formula eh: {x}')

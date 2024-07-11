@@ -1,0 +1,4 @@
+num1 = float(input('Uma distancia em metros '))
+c = num1*100
+m = num1*1000
+print(f'A distancia em cm eh: {c} e a distancia em mm eh: {m}')

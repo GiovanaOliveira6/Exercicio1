@@ -1,0 +1,10 @@
+nome = str(input('Qual é o seu nome? '))
+
+if nome == 'Gustavo':
+    print('Hello Gustavo')
+
+
+else:
+    print('Seu nome é bem comum')
+
+print(f'Bom dia, {nome}')

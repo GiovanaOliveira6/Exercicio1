@@ -1,0 +1,7 @@
+lista_de_mercado = ['Abobrinha', 'arroz', 'beterraba', 'Caqui', 'Batata']
+
+if 'Batata' in lista_de_mercado:
+        print('Tem batata gostosa aí')
+
+else: 
+    print('Tem é nada!')

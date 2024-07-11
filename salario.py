@@ -1,0 +1,3 @@
+salario = float(input('Qual eh o seu salario? '))
+aumento = salario + (salario * 15/100)
+print(f'O seu salario com 15% de aumento ficou: {aumento} ')
