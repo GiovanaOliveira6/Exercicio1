@@ -1,4 +1,5 @@
 num = int(input('Qual numero voce quer a tabuada? '))
+
 print(f'A tabuada de {num} eh: ')
 print(f'{num} x 1 = {num*1} ')
 print(f'{num} x 2 = {num*2} ')
