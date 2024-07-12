@@ -1,3 +1,5 @@
+# Faça um programa para o usuário entrar com a idade do seu carro e o algoritmo falar se já está na hora de trocar de carro
+
 tempo = int(input('Quanto tempo tem o seu carro? '))
 
 if tempo <= 3:
